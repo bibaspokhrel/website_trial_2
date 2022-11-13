@@ -7,7 +7,7 @@
 .container{
     width: 100%;
     min-height: 100vh;
-    background-image: linear-gradient(rgba(130, 190, 136, 0.65),rgba(102, 6, 63, 0.65)),url(image/mountain.jpg);
+    background-image: linear-gradient(rgba(130, 190, 136, 0.65),rgba(224, 128, 186, 0.65)),url(image/mountain.jpg);
     background-size: cover;
     background-position: center;
     padding: 10px 8%;
